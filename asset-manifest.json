@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MoviesiteReact/static/css/main.334bdeb1.css",
-    "main.js": "/MoviesiteReact/static/js/main.687a62eb.js",
+    "main.js": "/MoviesiteReact/static/js/main.bfc6137b.js",
     "index.html": "/MoviesiteReact/index.html",
     "static/media/search.svg": "/MoviesiteReact/static/media/search.a3e08bb06cdea1d3383a82e49a5f3290.svg",
     "main.334bdeb1.css.map": "/MoviesiteReact/static/css/main.334bdeb1.css.map",
-    "main.687a62eb.js.map": "/MoviesiteReact/static/js/main.687a62eb.js.map"
+    "main.bfc6137b.js.map": "/MoviesiteReact/static/js/main.bfc6137b.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.687a62eb.js"
+    "static/js/main.bfc6137b.js"
   ]
 }
